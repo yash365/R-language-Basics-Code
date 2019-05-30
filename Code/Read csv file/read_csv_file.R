@@ -19,5 +19,5 @@ sampleData2 <- read.csv("http://insight.dev.schoolwires.com/HelpAssets/C2Assets/
 # data type 
 class(sampleData2)
 
-# display top data
-sampleData2
+# display top 5 data
+head(sampleData2)
