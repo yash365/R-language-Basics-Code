@@ -11,6 +11,8 @@ This repository is mainly created to learn basics of R language, here is a list 
 
 6. Install package
 
+7. Display histogram, scattered-plot and box-plot
+
 
 If you have not downloaded and installed R language, use this link : https://cran.r-project.org/
 
