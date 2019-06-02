@@ -1,0 +1,1 @@
+Follow the step1 and step2 image to install the packages.
